@@ -1,4 +1,4 @@
-module github.com/LumeWeb/portal-plugin-sync-grpc
+module go.lumeweb.com/portal-plugin-sync-grpc
 
 go 1.22
 
